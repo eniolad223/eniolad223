@@ -67,7 +67,8 @@ As part of my CompTIA A+ Core 1 studies at Western Governors University (WGU), I
 <details>
 <summary>🖼️ <strong>Screenshots</strong></summary>
 
-> 📸 Active DHCP leases  
+### Initial Topology Diagram
+
 > 📸 Wireless client list  
 > 📸 Successful ping results  
 > 📸 DHCP settings  
